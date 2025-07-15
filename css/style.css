@@ -38,3 +38,17 @@ audio {
   margin-bottom: 10px;
 }
 
+}
+h2 {
+  margin-bottom: 20px;
+}
+iframe {
+  width: 100%;
+  height: 2000px;
+  border: none;
+}
+audio {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
